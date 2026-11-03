@@ -8,7 +8,8 @@ and machine-learning models (Logistic Regression, Decision Tree, Random Forest) 
 predict slow bus segments (RQ2).
 
 ## Data
-Download the CSV exports for Oct–Dec of each year from New York State Open Data:
+Datasets for Oct-Dec 2024 and 2025 have been uploaded in the releases section of the repository. 
+Also, the original link to download the CSV exports of each year from New York State Open Data is as given below:
 - MTA Bus Route Segment Speeds: 2023–2024 — https://data.ny.gov/Transportation/MTA-Bus-Route-Segment-Speeds-2023-2024/58t6-89vi
 - MTA Bus Route Segment Speeds: Beginning 2025 — https://data.ny.gov/Transportation/MTA-Bus-Route-Segment-Speeds-Beginning-2025/kufs-yh3x
 
